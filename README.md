@@ -1,8 +1,6 @@
 # RosenPy 
 [![Documentation Status](https://readthedocs.org/projects/tsfel/badge/?version=latest)](https://tsfel.readthedocs.io/en/latest/?badge=latest) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tsfel)
 
-# [Reserved for RosenPy logo]
-
 ### What is RosenPy?
 - A complex-valued neural network library, written in Python;
 - Incorporates CVNNs such as CV-FFNN (complex-valued feedforward neural network), SC-FFNN (split-complex feedforward neural network), CV-RBFNN (complex-valued radial basis function neural network), FC-RBFNN (fully-complex radial basis function neural network), and Deep PT-RBFNN (deep phase transmittance radial basis function neural network);
